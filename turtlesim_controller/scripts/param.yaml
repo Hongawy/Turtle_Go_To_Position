@@ -1,0 +1,4 @@
+x_goal : 8.5
+y_goal : 9.5
+k_linear:  1.0
+k_angular: 1.5
